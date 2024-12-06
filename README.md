@@ -1,5 +1,7 @@
 # DELICE - Restaurant Business Website
 
+![Capture d'écran 2024-12-06 010851](https://github.com/user-attachments/assets/83b25a7c-a66f-4db8-adab-5ab40a96959c)
+
 **DELICE** is a responsive and visually appealing website designed to showcase and promote a restaurant business. The project is tailored to provide a smooth user experience and a modern design for customers exploring the restaurant's offerings.
 
 ## Features
